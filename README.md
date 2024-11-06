@@ -9,7 +9,7 @@
   <h3 align="center">GELI: Global Explict Local Implicit Reward Decomposition</h3>
 
   <p align="center">
-    Ue the model at HuggingFace!
+    Try the GELI-trained Llama model at HuggingFace!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>HF Model Card»</strong></a>
     <br />
