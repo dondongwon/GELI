@@ -118,7 +118,7 @@ Dong Won Lee - X:[@_dongwonlee](https://twitter.com/_dongwonlee) - Email: dongwo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-We gratefully acknowledge and the creators and researchers of the following works, that were a huge enabler to making this project happen. 
+We gratefully acknowledge and the creators and researchers of the following works, who were huge enablers allowing this project to come to fruition. 
 
 * [TRL](https://github.com/huggingface/trl)
 * [CANDOR Dataset](https://www.science.org/doi/10.1126/sciadv.adf3197)
