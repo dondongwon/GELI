@@ -11,7 +11,7 @@
   <p align="center">
     Try the GELI-trained Llama model at HuggingFace!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>HF Model Card»</strong></a>
+    <a href="https://huggingface.co/dondongwonlee/GELI"><strong>HF Model Card»</strong></a>
     <br />
     <br />
     <a href="https://arxiv.org/pdf/2403.11330">Paper</a>
