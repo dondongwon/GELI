@@ -79,9 +79,21 @@ This will output a reward model that are saved to [THIS](https://github.com/dond
 Finally, we can run RLHF with GELI with the following code.
 
 ```
-python train_rl_GELI.py --model_name llama --exp_name GELI --reward redistributed_reward --rf_model GELI --train --val
+python train_rl_GELI.py --model_name llama --exp_name GELI --reward redistributed_reward --rf_model GELI --train --val --batch_size 24
 ```
 We use PEFT in our implementation, this will save the adapter weights in `./rlmf_weights`. 
+
+## Accessing Pre-trained Reward Functions
+
+We share the pre-trained reward functions here.
+
+- LI-Only: [Drive](https://drive.google.com/file/d/1_m8n2gWSo9GV9SDXE1f5H6s-HBUwlT4Y/view?usp=sharing). 
+- GELI: [Folder](https://github.com/dondongwon/GELI/tree/main/visual_feedback_baselines_convo_overall_affect_baseline_RRD_K_160)
+
+Place them in the respective folders, if you would like to skip training them yourself. 
+
+
+
 
 <!-- LICENSE -->
 ## License
@@ -97,7 +109,7 @@ All other the contesnts of this repository are released under a [Creative Common
 <!-- CONTACT -->
 ## Contact
 
-Dong Won Lee - [@_dongwonlee](https://twitter.com/_dongwonlee) - dongwonl@mit.edu
+Dong Won Lee - X:[@_dongwonlee](https://twitter.com/_dongwonlee) - Email: dongwonl@mit.edu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
