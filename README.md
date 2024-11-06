@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://arxiv.org/pdf/2403.11330">
     <img src="images/main_fig.png" alt="Logo" width="200">
   </a>
 
@@ -14,11 +14,11 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>HF Model Card»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Paper</a>
+    <a href="https://arxiv.org/pdf/2403.11330">Paper</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Pre-Trained Reward Functions</a>
+    <a href="https://drive.google.com/file/d/1_m8n2gWSo9GV9SDXE1f5H6s-HBUwlT4Y/view?usp=sharing">Pre-Trained Reward Functions</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">CANDOR Dataset</a>
+    <a href="https://www.science.org/doi/10.1126/sciadv.adf3197">CANDOR Dataset</a>
   </p>
 </div>
 
